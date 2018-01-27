@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владимир Ганзий](https://up.htmlacademy.ru/javascript/12/user/58688).
-* Наставник: `Неизвестно`.
+* Наставник: `Роман Чаругин`.
 
 ---
 
